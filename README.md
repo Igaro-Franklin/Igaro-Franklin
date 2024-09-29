@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Linguagnes que programo (ou já tive contato)</h2>
+<h2 align="left">Linguagens que programo (ou já tive contato)</h2>
 
 ###
 
